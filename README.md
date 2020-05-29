@@ -98,6 +98,7 @@ All you need to do is set the `multiline` and set the `height` prop as `null`.
 | multiline            |    boolean    |        false        | if you want **auto-grow** text `InputBar` then you need to use this prop & set the `height` prop to `null` ! |
 | minHeight            | string/number |         50          | change the minimum height of the `InputBar`                                                                  |
 | maxHeight            | string/number |        null         | change the maximum height of the `InputBar`                                                                  |
+| inputRef             | element       |        null         | Gives you access to the Text Input props and methods
 
 # Change Log
 
